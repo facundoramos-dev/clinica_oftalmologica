@@ -1,0 +1,3 @@
+insert into obra_social (id,nombre,telefono,direccion) values(1,'Instituto de Seguros de Jujuy', '0800-444-0984', 'Alvear Nº 745 - S. S. de Jujuy (C.P. 4600) - Jujuy - Argentina');
+insert into obra_social (id,nombre,telefono,direccion) values(2,'OSDE', '0800-555-6733', 'Av. 19 de Abril 551 - S. S. de Jujuy (C.P. 4600) - Jujuy - Argentina');
+insert into obra_social (id,nombre,telefono,direccion) values(3,'SWISS MEDICAL', '0800-222-7854', 'Av. Corrientes 1865 PB CABA');

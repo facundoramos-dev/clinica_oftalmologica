@@ -1,0 +1,26 @@
+2021-11-16 20:43:49 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:43:49 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:43:50 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:43:50 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:43:50 INFO  TurnoDTOTestCase:140 - Cantidad de Turnos encontrados con el numero de documento 42035291 de un Paciente: 3
+2021-11-16 20:43:50 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:43:50 INFO  ITurnoService:67 - Medico Ocupado
+2021-11-16 20:43:50 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:43:50 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:44:18 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:44:18 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:44:18 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:57:06 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:06 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:06 INFO  ITurnoService:187 - Se retraso un turno: 2021-11-18T12:30
+2021-11-16 20:57:06 INFO  ITurnoService:187 - Se retraso un turno: 2021-11-19T11:30
+2021-11-16 20:57:06 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:07 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:07 INFO  TurnoDTOTestCase:140 - Cantidad de Turnos encontrados con el numero de documento 42035291 de un Paciente: 3
+2021-11-16 20:57:07 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:07 INFO  ITurnoService:67 - Medico Ocupado
+2021-11-16 20:57:07 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:57:07 INFO  ITurnoService:47 - Turno Asignado
+2021-11-16 20:57:33 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:57:33 INFO  ITurnoService:51 - Imposible asignar turno...
+2021-11-16 20:57:33 INFO  ITurnoService:51 - Imposible asignar turno...
